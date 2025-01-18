@@ -50,7 +50,7 @@ These metrics provide a measure of how well each model performed on the test dat
 - F1 Score: The harmonic mean of precision and recall.
 - ROC AUC Score: The area under the Receiver Operating Characteristic (ROC) curve, which measures the performance of the model at different classification thresholds.
 
-Based on these metrics, the Logistic Regression and XGBClassifier models performed the best, with high accuracy, precision, recall, F1 score, and ROC AUC score. The DecisionTreeClassifier and RandomForestClassifier models also performed reasonably well, with an accuracy of 0.78 and 0.82, respectively. The MultinomialNB model had the lowest performance, with an accuracy of 0.71.
+Based on these metrics, the Logistic Regression and XGBClassifier models performed the best, with high accuracy, precision, recall, F1 score, and ROC AUC score. The DecisionTreeClassifier and RandomForestClassifier models also performed reasonably well, with an accuracy of 0.78 and 0.81, respectively. The MultinomialNB model had the lowest performance, with an accuracy of 0.72.
 
 ## Technologies
 
